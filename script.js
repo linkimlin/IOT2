@@ -1,5 +1,5 @@
 // 配置API地址
-const API_BASE_URL = 'https://2bc3-124-64-23-130.ngrok-free.app';  // ngrok地址
+const API_BASE_URL = 'http://localhost:5000';  // 临时使用本地地址测试
 
 // 更新UI显示
 function updateUI(data) {
